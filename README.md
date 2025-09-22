@@ -12,7 +12,7 @@ This repository contains my professional and academic certificates that showcase
 
 This course solidified my understanding of core OOP principles—Abstraction, Encapsulation, Inheritance, and Polymorphism—using Java, enhancing my ability to write modular and maintainable code.
 
-[📄 View Certificate](./CertificateOfCompletion_Java-ObjectOriented-Programming.pdf)
+[📄 View Certificate](https://www.linkedin.com/learning/java-object-oriented-programming-2?u=57118729)
 
 ## 📂 Certificates Overview
 
