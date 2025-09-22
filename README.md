@@ -18,7 +18,7 @@ This course solidified my understanding of core OOP principles—Abstraction, En
 
 | # | Certificate Name | Organization | Year | Type | Status | Verification |
 |---|-----------------|-------------|------|------|--------|--------------|
-| 1 | Java Object-Oriented Programming|<img width="483" height="75" alt="image" src="https://github.com/user-attachments/assets/607d6a93-8c9c-4096-9ec5-b5f678975980" />
+| 1 | Java Object-Oriented Programming|  <img src="https://github.com/user-attachments/assets/607d6a93-8c9c-4096-9ec5-b5f678975980" width="150" />
  | 2025 | Cloud Computing | Completed | [Verify](#) |
 | 1 | AWS Cloud Foundations | AWS Academy | 2025 | Cloud Computing | Completed | [Verify](#) |
 | 1 | AWS Cloud Foundations | AWS Academy | 2025 | Cloud Computing | Completed | [Verify](#) |
