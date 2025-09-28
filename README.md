@@ -52,8 +52,11 @@ This course solidified my understanding of core OOP principles—Abstraction, En
 - [ ] Data Engineering specialization  
 - [ ] Machine Learning foundations
 - [ ] NLP specialization
-
----
+- [ ] 
+## 👤 Author  
+**Eijkeyal Pakhrin**  
+- GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
+- LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
 
 *This repository is regularly updated. Last sync: September 2025*
 
