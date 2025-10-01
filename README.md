@@ -22,6 +22,14 @@ This course solidified my understanding of core OOP principles—Abstraction, En
 
 [📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/CertificateOfCompletion_Java%20ObjectOriented%20Programming.pdf)
 
+### 1. AWS Academy Graduate - Cloud Foundations
+- **Issuer:** Amazon Web Services (AWS) Training and Certification
+- **Date Earned:** [Add your issue date]
+- **Credential ID:** `[Your Credly Credential ID]`
+- **Skills:** AWS Cloud, Cloud Computing, Cloud Security, EC2, S3, VPC, IAM, Cloud Architecture
+
+This certification validates my understanding of core AWS services, cloud concepts, security, architecture, pricing, and support.
+
 ## 🛠️ Technical Skills Overview
 
 ### 💪 Core Competencies
