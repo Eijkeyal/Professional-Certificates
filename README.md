@@ -16,7 +16,7 @@ This repository contains my professional and academic certificates that showcase
 - **Issuer:** LinkedIn Learning
 - **Date Earned:** August 13, 2025
 - **Certificate ID:** `9d7fca8369d266c638634ca72edc528b6181553bb7cd9c2b7c8c1b063216d05`
-- **Course Duration:** Around 20 hours, completed at a flexible self-paced schedule
+- **Course Duration:** Around 2 hours, completed at a flexible self-paced schedule
 - **Skills:** Java, Object-Oriented Programming (OOP)
 
 This course solidified my understanding of core OOP principles Abstraction, Encapsulation, Inheritance, and Polymorphism—using Java, enhancing my ability to write modular and maintainable code.
@@ -27,6 +27,7 @@ This course solidified my understanding of core OOP principles Abstraction, Enca
 - **Issuer:** Amazon Web Services (AWS) Training and Certification
 - **Date Earned:** September 28, 2025
 - **Credential ID:** `316cd253-0737-4a9d-be4e-4c4a7b2aae0c`
+- **Course Duration:** Around 20 hours, completed at a flexible self-paced schedule
 - **Skills:** AWS Cloud, Cloud Computing, Cloud Security, EC2, S3, VPC, IAM, Cloud Architecture
 
 This certification validates my understanding of core AWS services, cloud concepts, security, architecture, pricing, and support.
