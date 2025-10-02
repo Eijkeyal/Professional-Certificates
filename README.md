@@ -29,7 +29,8 @@ This course solidified my understanding of core OOP principles—Abstraction, En
 - **Skills:** AWS Cloud, Cloud Computing, Cloud Security, EC2, S3, VPC, IAM, Cloud Architecture
 
 This certification validates my understanding of core AWS services, cloud concepts, security, architecture, pricing, and support.
-[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/Java_Object_Oriented_Programming_Certificate.pdf)
+
+[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy_Graduate_Cloud%20Foundations%20Certificate.pdf)
 
 ## 🛠️ Technical Skills Overview
 
