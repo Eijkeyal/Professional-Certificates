@@ -19,8 +19,7 @@ This repository contains my professional and academic certificates that showcase
 - **Skills:** Java, Object-Oriented Programming (OOP)
 
 This course solidified my understanding of core OOP principles—Abstraction, Encapsulation, Inheritance, and Polymorphism—using Java, enhancing my ability to write modular and maintainable code.
-
-[🛡️ View Badge](https://www.credly.com/badges/316cd253-0737-4a9d-be4e-4c4a7b2aae0c/public_url) [📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/Java_Object_Oriented_Programming_Certificate.pdf)
+[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/Java_Object_Oriented_Programming_Certificate.pdf)
 
 ### 2. AWS Academy Graduate - Cloud Foundations
 - **Issuer:** Amazon Web Services (AWS) Training and Certification
@@ -30,7 +29,7 @@ This course solidified my understanding of core OOP principles—Abstraction, En
 
 This certification validates my understanding of core AWS services, cloud concepts, security, architecture, pricing, and support.
 
-[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy_Graduate_Cloud%20Foundations%20Certificate.pdf)
+[🛡️ View Badge](https://www.credly.com/badges/316cd253-0737-4a9d-be4e-4c4a7b2aae0c/public_url)[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy_Graduate_Cloud%20Foundations%20Certificate.pdf)
 
 ## 🛠️ Technical Skills Overview
 
