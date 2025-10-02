@@ -16,6 +16,7 @@ This repository contains my professional and academic certificates that showcase
 - **Issuer:** LinkedIn Learning
 - **Date Earned:** August 13, 2025
 - **Certificate ID:** `9d7fca8369d266c638634ca72edc528b6181553bb7cd9c2b7c8c1b063216d05`
+- **Course Duration:** Around 20 hours, completed at a flexible self-paced schedule
 - **Skills:** Java, Object-Oriented Programming (OOP)
 
 This course solidified my understanding of core OOP principles Abstraction, Encapsulation, Inheritance, and Polymorphism—using Java, enhancing my ability to write modular and maintainable code.
