@@ -18,7 +18,7 @@ This repository contains my professional and academic certificates that showcase
 - **Certificate ID:** `9d7fca8369d266c638634ca72edc528b6181553bb7cd9c2b7c8c1b063216d05`
 - **Skills:** Java, Object-Oriented Programming (OOP)
 
-This course solidified my understanding of core OOP principles—Abstraction, Encapsulation, Inheritance, and Polymorphism—using Java, enhancing my ability to write modular and maintainable code.
+This course solidified my understanding of core OOP principles Abstraction, Encapsulation, Inheritance, and Polymorphism—using Java, enhancing my ability to write modular and maintainable code.
 
  [📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/Java_Object_Oriented_Programming_Certificate.pdf)
 
@@ -58,7 +58,7 @@ This certification validates my understanding of core AWS services, cloud concep
 ## 🎯 2025 Learning Goals
 
 - [x] Complete Java OOP fundamentals
-- [ ] AWS Cloud Foundations certification
+- [x] AWS Cloud Foundations certification
 - [ ] Data Engineering specialization  
 - [ ] Machine Learning foundations
 - [ ] NLP specialization
