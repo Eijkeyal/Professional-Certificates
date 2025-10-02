@@ -70,8 +70,9 @@ This certification validates my understanding of core AWS services, cloud concep
 - GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
 - LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
 - Credly: [Eijkeyal Pakhrin](https://credly.com/users/eijkeyal-pakhrin)
+  
+*This repository is regularly updated. Last sync: October 2nd, 2025*
 
-*This repository is regularly updated. Last sync: September 2025*
 
 
 
