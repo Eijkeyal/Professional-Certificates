@@ -64,7 +64,7 @@ This certification validates my understanding of core AWS services, cloud concep
 - [ ] Data Engineering specialization  
 - [ ] Machine Learning foundations
 - [ ] NLP specialization
-- [ ] 
+  
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
 - GitHub: [@Eijkeyal](https://github.com/Eijkeyal)  
