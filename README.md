@@ -42,6 +42,7 @@ This certification validates my understanding of core AWS services, cloud concep
 - **Skills:** Data Engineering, Data Pipelines, AWS Glue, Amazon Redshift, S3, ETL, Data Transformation, AWS Cloud Services  
 
 This certification validates my ability to design, build, and manage scalable data pipelines using AWS cloud technologies. It demonstrates my practical understanding of data engineering principles, data processing, and optimization techniques within the AWS ecosystem.
+[🛡️ View Badge] [📄 View Certificate]
 
 
 ## 🛠️ Technical Skills Overview
