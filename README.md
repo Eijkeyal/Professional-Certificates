@@ -34,6 +34,16 @@ This certification validates my understanding of core AWS services, cloud concep
 
 [🛡️ View Badge](https://www.credly.com/badges/316cd253-0737-4a9d-be4e-4c4a7b2aae0c/public_url)[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy_Graduate_Cloud%20Foundations%20Certificate.pdf)
 
+### 3. AWS Academy Graduate - Data Engineering
+- **Issuer:** Amazon Web Services (AWS) Training and Certification  
+- **Date Earned:** October 4, 2025  
+- **Credential ID:** `46cjnuz0`  
+- **Course Duration:** Around 40 hours, completed at a flexible self-paced schedule  
+- **Skills:** Data Engineering, Data Pipelines, AWS Glue, Amazon Redshift, S3, ETL, Data Transformation, AWS Cloud Services  
+
+This certification validates my ability to design, build, and manage scalable data pipelines using AWS cloud technologies. It demonstrates my practical understanding of data engineering principles, data processing, and optimization techniques within the AWS ecosystem.
+
+
 ## 🛠️ Technical Skills Overview
 
 ### 💪 Core Competencies
