@@ -43,7 +43,7 @@ This certification validates my understanding of core AWS services, cloud concep
 
 This certification validates my ability to design, build, and manage scalable data pipelines using AWS cloud technologies. It demonstrates my practical understanding of data engineering principles, data processing, and optimization techniques within the AWS ecosystem.
 
-[🛡️ View Badge]() [📄 View Certificate]()
+[🛡️ View Badge](https://www.credly.com/badges/04500397-8f0b-4685-8760-386246763347/public_url) [📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy%20Data_Engineering%20and%20Certifications.pdf)
 
 
 ## 🛠️ Technical Skills Overview
