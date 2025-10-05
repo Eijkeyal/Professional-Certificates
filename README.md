@@ -37,7 +37,7 @@ This certification validates my understanding of core AWS services, cloud concep
 ### 3. AWS Academy Graduate - Data Engineering
 - **Issuer:** Amazon Web Services (AWS) Training and Certification  
 - **Date Earned:** October 4, 2025  
-- **Credential ID:** `46cjnuz0`  
+- **Credential ID:** `04500397-8f0b-4685-8760-386246763347`  
 - **Course Duration:** Around 40 hours, completed at a flexible self-paced schedule  
 - **Skills:** Data Engineering, Data Pipelines, AWS Glue, Amazon Redshift, S3, ETL, Data Transformation, AWS Cloud Services  
 
