@@ -73,7 +73,7 @@ This certification validates my ability to design, build, and manage scalable da
 
 - [x] Complete Java OOP fundamentals
 - [x] AWS Cloud Foundations certification
-- [ ] Data Engineering specialization  
+- [x] Data Engineering specialization  
 - [ ] Machine Learning foundations
 - [ ] NLP specialization
   
