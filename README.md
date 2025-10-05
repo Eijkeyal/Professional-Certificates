@@ -4,9 +4,9 @@ This repository contains my professional and academic certificates that showcase
 
 ## 📊 Learning Progress
 
-- ✅ **Completed:** 2
+- ✅ **Completed:** 3
 - 🔄 **In Progress:** 1 
-- ⏳ **Planned:** 2
+- ⏳ **Planned:** 1
 - 🎯 **Total Goals:** 5
 
 
