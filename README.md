@@ -83,7 +83,7 @@ This certification validates my ability to design, build, and manage scalable da
 - LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
 - Credly: [Eijkeyal Pakhrin](https://credly.com/users/eijkeyal-pakhrin)
   
-*This repository is regularly updated. Last sync: October 2nd, 2025*
+*This repository is regularly updated. Last sync: October 6th, 2025*
 
 
 
