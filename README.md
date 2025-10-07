@@ -92,8 +92,9 @@ This certification validates my foundational knowledge of machine learning princ
 - GitHub: [Eijkeyal](https://github.com/Eijkeyal)  
 - LinkedIn: [Eijkeyal Pakhrin](https://www.linkedin.com/in/eijkeyalpakhrin)
 - Credly: [Eijkeyal Pakhrin](https://credly.com/users/eijkeyal-pakhrin)
-  
-*This repository is regularly updated. Last sync: October 6th, 2025*
+
+  *This repository is regularly updated. Last sync: October 7th, 2025*
+
 
 
 
