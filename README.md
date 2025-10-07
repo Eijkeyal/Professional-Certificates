@@ -55,6 +55,16 @@ This certification validates my ability to design, build, and manage scalable da
 
 This certification validates my foundational knowledge of machine learning principles and the ability to apply ML concepts using AWS tools such as Amazon SageMaker. It demonstrates my understanding of data preprocessing, model building, and evaluating machine learning models in the AWS ecosystem.
 
+### 4. AWS Academy Graduate - Machine Learning Foundations  
+- **Issuer:** Amazon Web Services (AWS) Training and Certification  
+- **Date Earned:** October 7, 2025  
+- **Credential ID:** [S5OXW4Pt](https://www.credly.com/go/S5OXW4Pt)  
+- **Course Duration:** Around 20 hours, completed at a flexible self-paced schedule  
+- **Skills:** Machine Learning, Data Preparation, Model Training, AI Fundamentals, AWS SageMaker, Data Science Concepts  
+
+This certification validates my foundational knowledge of machine learning principles and the ability to apply ML concepts using AWS tools such as Amazon SageMaker. It demonstrates my understanding of data preprocessing, model building, and evaluating machine learning models in the AWS ecosystem.
+
+
 
 ## 🛠️ Technical Skills Overview
 
