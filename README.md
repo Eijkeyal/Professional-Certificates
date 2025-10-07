@@ -84,7 +84,7 @@ This certification validates my foundational knowledge of machine learning princ
 - [x] Complete Java OOP fundamentals
 - [x] AWS Cloud Foundations certification
 - [x] Data Engineering specialization  
-- [ ] Machine Learning foundations
+- [x] Machine Learning foundations
 - [ ] NLP specialization
   
 ## 👤 Author  
