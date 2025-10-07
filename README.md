@@ -6,7 +6,7 @@ This repository contains my professional and academic certificates that showcase
 
 - ✅ **Completed:** 4
 - 🔄 **In Progress:** 1 
-- ⏳ **Planned:** None
+- ⏳ **Planned:** More to Come 🚀
 - 🎯 **Total Goals:** 5
 
 
