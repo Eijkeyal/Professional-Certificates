@@ -93,7 +93,7 @@ This certification represents the completion of a self-paced program focused on 
 - [x] AWS Cloud Foundations certification
 - [x] Data Engineering specialization  
 - [x] Machine Learning foundations
-- [ ] NLP specialization
+- [x] NLP specialization
   
 ## 👤 Author  
 **Eijkeyal Pakhrin**  
