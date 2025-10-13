@@ -62,7 +62,7 @@ This certification validates my ability to design, build, and manage scalable da
 
 This certification represents the completion of a self-paced program focused on machine learning applications for natural language. Through approximately 20 hours of study, I gained practical experience in processing textual data, building language models, and implementing NLP solutions using AWS technologies.
 
-[🛡️ View Badge](https://www.credly.com/badges/7b8431f0-9005-48e9-8090-ec5d1061f701/public_url)[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy%20Machine_Learning_Foundations%20and%20Certifications.pdf)
+[🛡️ View Badge](https://www.credly.com/badges/85a23d80-1128-46ab-b899-802eefc44a2b/public_url)[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy%20Machine_Learning_Foundations%20and%20Certifications.pdf)
 
 ## 🛠️ Technical Skills Overview
 
