@@ -55,10 +55,11 @@ This certification validates my ability to design, build, and manage scalable da
 ### AWS Academy Graduate - Machine Learning for Natural Language Processing
 - **Issuer:** Amazon Web Services (AWS) Training and Certification
 - **Date Earned:** October 10, 2025
+- **Course Duration:** Approximately 20 hours of self-paced learning
 - **Description:** This badge certifies the successful completion of the AWS Academy Machine Learning for Natural Language Processing course.
 - **Skills Validated:** Natural Language Processing (NLP), Machine Learning for Text, Language Models, Text Preprocessing, Feature Extraction for NLP, Sentiment Analysis, Sequence-to-Sequence Models
 
-This certification validates my foundational knowledge of machine learning principles and the ability to apply ML concepts using AWS tools such as Amazon SageMaker. It demonstrates my understanding of data preprocessing, model building, and evaluating machine learning models in the AWS ecosystem.
+This certification represents the completion of a self-paced program focused on machine learning applications for natural language. Through approximately 20 hours of study, I gained practical experience in processing textual data, building language models, and implementing NLP solutions using AWS technologies.
 
 [🛡️ View Badge](https://www.credly.com/badges/7b8431f0-9005-48e9-8090-ec5d1061f701/public_url)[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy%20Machine_Learning_Foundations%20and%20Certifications.pdf)
 
