@@ -67,13 +67,13 @@ This certification represents the completion of a self-paced program focused on 
 
 [🛡️ View Badge](https://www.credly.com/badges/85a23d80-1128-46ab-b899-802eefc44a2b/public_url)[📄 View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/AWS_Academy_Machine_Learning_for_Natural_Language_Processing%20Certificate.pdf)
 
-# Java Data Structures
+ ### 6. Java Data Structures
 
-**Issuer:** LinkedIn Learning  
-**Date Earned:** October 13, 2025  
-**Certificate ID:** `8aab8d1eede6b5d87ac959d8c14c0a8c40f52bc3e4d40e4d2badbdaebf49cf2d`  
-**Course Duration:** 49 minutes, completed at a flexible self-paced schedule  
-**Skills:** `Java`, `Data Structures`
+- **Issuer:** LinkedIn Learning  
+- **Date Earned:** October 13, 2025  
+- **Certificate ID:** `8aab8d1eede6b5d87ac959d8c14c0a8c40f52bc3e4d40e4d2badbdaebf49cf2d`  
+- **Course Duration:** 49 minutes, completed at a flexible self-paced schedule  
+- **Skills:** `Java`, `Data Structures`
 
 This course provided a focused review of essential data structures in Java, strengthening my ability to select and implement the right structures—like arrays, linked lists, and trees—to write efficient and well-organized applications.
 
