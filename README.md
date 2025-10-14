@@ -54,7 +54,7 @@ This certification validates my ability to design, build, and manage scalable da
   
 This certification validates my foundational knowledge of machine learning principles and practical skills in implementing ML solutions using AWS tools like Amazon SageMaker. The self-paced program covered essential concepts including data preprocessing, model building, and evaluation techniques within the AWS ecosystem.
 
-### AWS Academy Graduate - Machine Learning for Natural Language Processing
+### 5. AWS Academy Graduate - Machine Learning for Natural Language Processing
 - **Issuer:** Amazon Web Services (AWS) Training and Certification
 - **Date Earned:** October 10, 2025
 - **Credential ID:** `85a23d80-1128-46ab-b899-802eefc44a2b`
