@@ -77,7 +77,7 @@ This certification represents the completion of a self-paced program focused on 
 
 This course provided a focused review of essential data structures in Java, strengthening my ability to select and implement the right structures—like arrays, linked lists, and trees—to write efficient and well-organized applications.
 
-📄 [View Certificate](CertificateOfCompletion_Java%20Data%20Structures.pdf)
+📄 [View Certificate](https://github.com/Eijkeyal/Professional-Certificates/blob/main/certifications/CertificateOfCompletion_Java%20Data%20Structures.pdf)
 
 ## 🛠️ Technical Skills Overview
 
