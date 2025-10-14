@@ -51,6 +51,7 @@ This certification validates my ability to design, build, and manage scalable da
 - **Credential ID:** `7b8431f0-9005-48e9-8090-ec5d1061f701`
 - **Course Duration:** Around 20 hours, completed at a flexible self-paced schedule  
 - **Skills:** Machine Learning, Data Preparation, Model Training, AI Fundamentals, AWS SageMaker, Data Science Concepts
+  
 This certification validates my foundational knowledge of machine learning principles and practical skills in implementing ML solutions using AWS tools like Amazon SageMaker. The self-paced program covered essential concepts including data preprocessing, model building, and evaluation techniques within the AWS ecosystem.
 
 ### AWS Academy Graduate - Machine Learning for Natural Language Processing
